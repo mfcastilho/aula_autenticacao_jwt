@@ -92,7 +92,7 @@ Sinta-se à vontade para contribuir para o projeto, fazer sugestões ou relatar 
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](https://github.com/mfcastilho/aula-api-rest/blob/master/LICENSE) para obter detalhes.
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](https://github.com/mfcastilho/aula_autenticacao_jwt/blob/master/LICENSE) para obter detalhes.
 
 ## Contato
 
