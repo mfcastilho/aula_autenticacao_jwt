@@ -101,6 +101,6 @@ Para dúvidas ou mais informações, entre em contato com a equipe de desenvolvi
 - Nome do Desenvolvedor: Mario Frederico Castilho
 - Email: fredericocastilho@hotmail.com
 
-Obrigado por usar o projeto Aula de API REST!
+Obrigado por usar o projeto Aula Autenticação com JWT!
 
 
