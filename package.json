@@ -2,7 +2,11 @@
   "name": "aula_autenticacao_jwt",
   "version": "1.0.0",
   "description": "",
+<<<<<<< HEAD
   "main": "app.js",
+=======
+  "main": "index.js",
+>>>>>>> b42208c474a7f42c43bc00c465cc99cb0be6abf1
   "scripts": {
     "dev": "nodemon src/app.js"
   },

@@ -12,7 +12,12 @@ const createUserController = {
                return res.status(201).json(userCreated);
 
           } catch (error) {
+<<<<<<< HEAD
                return res.status(500).json({error: "Erro interno do servidor."});
+=======
+               console.log(error);
+               return res.status(500).json({error: "Erro interno do servidor."})
+>>>>>>> b42208c474a7f42c43bc00c465cc99cb0be6abf1
           }
      }
 }
