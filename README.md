@@ -1,4 +1,3 @@
-
 # Aula Autenticação com JWT - Programa Intercâmbio iFood
 
 Este é um projeto prático desenvolvido como parte de uma aula sobre autenticação com JWT. O projeto segue a arquitetura em camadas e tem como objetivo criar uma API REST para autenticar usuários e realizar operações CRUD (Create, Read, Update, Delete) em uma tabela de usuários no banco de dados 'db_aula_jwt'.
